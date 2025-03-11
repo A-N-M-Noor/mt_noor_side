@@ -1,9 +1,5 @@
 #define enc A0
 
-float Angle = 0;
-float prevA = 0;
-
-
 void setup() {
   Serial.begin(115200);
 }
