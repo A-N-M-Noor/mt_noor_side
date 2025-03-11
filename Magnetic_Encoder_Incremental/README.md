@@ -1,7 +1,7 @@
 ## Magnetic encoder but the angle does not reset to zero
 > 10/03/2025
 
-Check out the basic code [here](./Magnetic_Encoder)
+Check out the basic code [here](../Magnetic_Encoder)
 
 The problem with this is:
 - It goes back to zero after reaching 360
